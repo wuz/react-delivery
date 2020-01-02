@@ -1,7 +1,7 @@
 build: dist copy
 
 dist:
-  mkdir dist
+	mkdir dist
   
 copy:
-  cp *.html dist
+	cp *.html dist
